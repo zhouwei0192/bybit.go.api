@@ -1,4 +1,4 @@
-module github.com/wuhewuhe/bybit.go.api
+module github.com/zhouwei0192/bybit.go.api
 
 go 1.21
 
@@ -8,6 +8,7 @@ require (
 	github.com/gorilla/websocket v1.5.1
 	github.com/json-iterator/go v1.1.12
 	github.com/stretchr/testify v1.9.0
+	github.com/wuhewuhe/bybit.go.api v1.0.4
 )
 
 require (
